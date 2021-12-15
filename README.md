@@ -1,4 +1,4 @@
-# rarx
+# RARX
 
 World's first cryptocurrency - based fund.
 Focussed purely on the huge opportunity provided by Rare Earth Elements.
